@@ -99,7 +99,5 @@ function evs(){
     }else{
     if (cikPavIzr > 7,5 && cikPavIzr < 10){
         document.getElementById("diagr_pr").style.borderTop = "120px solid green";
-    }else{
-        document.getElementById("diagr_pr").style.borderTop = "7px solid red";
     }}}}
 }
